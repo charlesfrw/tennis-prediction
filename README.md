@@ -1,7 +1,10 @@
 # tennis-prediction project
+
 I am working on this machine learning program to predict the outcome of tennis single matches. 
 
 This repository contains a collection of Python programs for exploring tennis data and ultimatly performing some machine learning tasks. These programs are designed to help tennis enthusiasts analyze and preprocess tennis data, extract useful information, and make predictions using machine learning techniques.
+
+The data used in my programs is from the tennis database provided by Jeff Sackmann : https://github.com/JeffSackmann
 
 # Programs
 
@@ -14,10 +17,6 @@ This repository contains a collection of Python programs for exploring tennis da
 
 All the programs can be easily launched by the Tennis_Menu.py program.
 
-Note: The programs assume that the necessary data files are located in the specified directory (/Users/charles/Desktop/TENNIS/Data). Adjust the file paths in each .py accordingly to your files location...
-
-+ I learned coding by myself, and also used some IA tools to improve it, please report any error or issues if you find some, and feel free to complete my work.
-
 # Usage
 To use these programs, follow these steps:
 
@@ -28,8 +27,16 @@ To use these programs, follow these steps:
 5. Follow the program prompts or instructions to interact with the data and perform the desired task.
 Feel free to explore and modify the code to suit your specific needs. Contributions and suggestions are welcome.
 
+# Note: 
+
+The programs assume that the necessary data files are located in the specified directory (/Users/charles/Desktop/TENNIS/tennis_atp-master). Adjust the file paths in each .py accordingly to your files location...
+
+The Data Extractor Program (5) will create a .csv in a specified directory (/Users/charles/Desktop/TENNIS/Data). Adjust it as you wish. The same file will be used by the Preprocessing Program so make sure to update the file path there as well.
+
++ I learned coding by myself, and also used some IA tools to improve my codes, please report me any error or issues if you find some, and feel free to complete/upgrade my work.
+
 # Credits
-The programs in this repository utilize the tennis database provided by Jeff Sackmann. I would like to express my gratitude to Jeff Sackmann for his valuable contribution to the tennis community by offering an high quality database.
+The programs in this repository utilize the tennis database (tennis_atp-master) provided by Jeff Sackmann. I would like to express my gratitude to Jeff Sackmann for his valuable contribution to the tennis community by offering an high quality database.
 
 # License
 This project is licensed under the MIT License.
