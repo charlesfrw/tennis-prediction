@@ -1,7 +1,7 @@
-# tennis-prediction
-Machine learning program to predict the outcome of tennis single matches. 
-Tennis Prediction Programs (.py)
-This repository contains a collection of Python programs for exploring tennis data and performing machine learning tasks. These programs are designed to help tennis enthusiasts analyze and preprocess tennis data, extract useful information, and make predictions using machine learning techniques.
+# tennis-prediction project
+I am working on this machine learning program to predict the outcome of tennis single matches. 
+
+This repository contains a collection of Python programs for exploring tennis data and ultimatly performing some machine learning tasks. These programs are designed to help tennis enthusiasts analyze and preprocess tennis data, extract useful information, and make predictions using machine learning techniques.
 
 # Programs
 
@@ -14,18 +14,38 @@ This repository contains a collection of Python programs for exploring tennis da
 
 All the programs can be easily launched by the Tennis_Menu.py program.
 
-Note: The programs assume that the necessary data files are located in the specified directory (/Users/charles/Desktop/TENNIS/Data). Adjust the file paths accordingly to your own location.
+Note: The programs assume that the necessary data files are located in the specified directory (/Users/charles/Desktop/TENNIS/Data). Adjust the file paths in each .py accordingly to your files location...
+
++ I learned coding by myself, and also used some IA tools to improve it, please report any error or issues if you find some, and feel free to complete my work.
 
 # Usage
 To use these programs, follow these steps:
+
 1. Clone the repository to your local machine.
-2. Install the required dependencies mentioned in the documentation.
-3. Run the desired Python program by executing the corresponding file.
-4. Follow the program prompts or instructions to interact with the data and perform the desired task.
+2. Also clone the Jeff Sackmann ATP repository.
+3. Install the required dependencies mentioned in the documentation.
+4. Run the desired Python program by executing the corresponding file.
+5. Follow the program prompts or instructions to interact with the data and perform the desired task.
 Feel free to explore and modify the code to suit your specific needs. Contributions and suggestions are welcome.
 
 # Credits
-The programs in this repository utilize the tennis database provided by Jeff Sackmann. I would like to express my gratitude to Jeff Sackmann for his valuable contribution to the tennis community.
+The programs in this repository utilize the tennis database provided by Jeff Sackmann. I would like to express my gratitude to Jeff Sackmann for his valuable contribution to the tennis community by offering an high quality database.
 
 # License
 This project is licensed under the MIT License.
+
+If you wanna run my code with the data from Jeff Sackmann repository you must respect his work, here is his license :
+
+# Attention (If you use the data from Jeff Sackmann Repositery)
+
+Please read, understand, and abide by the license below. It seems like a reasonable thing to ask, given the hundreds of hours I've put into amassing and maintaining this dataset. Unfortunately, a few bad apples have violated the license, and when people do that, it makes me considerably less motivated to continue updating.
+
+Also, if you're using this for academic/research purposes (great!), take a minute and cite it properly. It's not that hard, it helps others find a useful resource, and let's face it, you should be doing it anyway.
+
+# License (If you use the data from Jeff Sackmann Repositery)
+
+Creative Commons License
+Tennis databases, files, and algorithms by Jeff Sackmann / Tennis Abstract is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Based on a work at https://github.com/JeffSackmann.
+
+In other words: Attribution is required. Non-commercial use only.
