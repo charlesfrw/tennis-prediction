@@ -1,4 +1,4 @@
-i# tennis-prediction project
+# tennis-prediction project
 
 I am working on a machine learning program to predict accurately the outcome of tennis single matches. 
 
